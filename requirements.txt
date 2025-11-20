@@ -1,0 +1,10 @@
+pm4py
+graphviz
+pygraphviz
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
