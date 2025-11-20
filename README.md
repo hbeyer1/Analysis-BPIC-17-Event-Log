@@ -1,7 +1,7 @@
 # Analysis-BPIC-17-Event-Log
 
 
-To run this analysis you must down load the BPIC 2017 XES file event log and store it in the folder data/BPI Challenge 2017.xes/[your file here]#
+To run this analysis you must down load the BPIC 2017 XES file event log and store it in the folder data/BPI Challenge 2017.xes/[your file here]
 
 Then install the required packages in the requirements.txt file via pip install and you are ready to run the notebooks
 
